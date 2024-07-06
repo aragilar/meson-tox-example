@@ -1,0 +1,8 @@
+[build-system]
+build-backend = 'mesonpy'
+requires = ['meson-python', 'numpy']
+
+[project]
+name = 'meson-tox-example'
+version = "0.1"
+description = 'meson tox example'
